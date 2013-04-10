@@ -1,0 +1,37 @@
+10
+
+dir
+0
+https://subversion.assembla.com/svn/works_ricardo_fideles/trunk/2012/4qaad/yins/app/View/Elements/admin
+https://subversion.assembla.com/svn/works_ricardo_fideles
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+alerts
+dir
+
+
+
+add
+
+ed
+dir
+
+
+
+add
+
+wysiwyg
+dir
+
+
+
+add
+

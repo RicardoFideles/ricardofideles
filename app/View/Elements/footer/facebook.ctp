@@ -1,0 +1,1 @@
+<div class="fb-like-box" data-href="http://www.facebook.com/RicardoFidelesWEB" data-width="300" data-show-faces="true" data-stream="false" data-header="false" data-border_color="#ff5d2a"></div>
